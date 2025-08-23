@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 I'm passionate about software development, open source, and building impactful solutions.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **[Your current project or area of focus]**
-- 🌱 I’m currently learning: **[New languages, frameworks, or skills]**
-- 📫 How to reach me: **[Your email or social links]**
+- 🔭 I’m currently working on: Data science and ML PROJECTS
+- 🌱 I’m currently learning: flask,Go
+- 📫 How to reach me: sreenidhithiyagu@gmail.com
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
