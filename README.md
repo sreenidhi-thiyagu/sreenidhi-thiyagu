@@ -5,7 +5,7 @@ I'm passionate about software development, open source, and building impactful s
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: Data science and ML PROJECTS
-- 🌱 I’m currently learning: flask,Go
+- 🌱 I’m currently learning: React
 - 📫 How to reach me: sreenidhithiyagu@gmail.com
 
 ## 🛠️ Languages and Tools
